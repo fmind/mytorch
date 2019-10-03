@@ -1,0 +1,6 @@
+jupyterlab
+jupytext
+papermill
+pyro-ppl
+torch
+torchvision
