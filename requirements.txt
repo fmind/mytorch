@@ -1,5 +1,7 @@
+fastai
 jupyterlab
 jupytext
+numpy
 papermill
 pyro-ppl
 torch
